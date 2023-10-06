@@ -1,0 +1,24 @@
+/*
+Made by Discord Datamining™️
+code is very simple, and customizable 
+
+Dont want to remove a button? just make it's @import a comment, Example:
+
+Before:
+@import url('..')
+After: 
+/* @import url('...')
+
+*/
+
+/* GIFT BUTTON: */
+@import url("https://github.com/Discord-dataminings/RemoveUnecesseryButtons/raw/main/gift.css")
+
+/* GIF MENU BUTTON */
+@import url("https://github.com/Discord-dataminings/RemoveUnecesseryButtons/raw/main/gif.css")
+
+/* STICKERS PICKER BUTTON */
+@import url("https://github.com/Discord-dataminings/RemoveUnecesseryButtons/raw/main/sticker.css")
+
+/* EMOJI PICKER BUTTON */
+@import url("https://github.com/Discord-dataminings/RemoveUnecesseryButtons/raw/main/emojis.css")
